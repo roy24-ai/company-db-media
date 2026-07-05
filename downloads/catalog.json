@@ -1,0 +1,670 @@
+[
+  {
+    "file": "all.csv",
+    "label": "全企業（上位）",
+    "count": 100,
+    "total": 5764522
+  },
+  {
+    "file": "new-companies.csv",
+    "label": "新設法人",
+    "count": 100,
+    "total": 151695
+  },
+  {
+    "file": "pref-%E4%B8%89%E9%87%8D%E7%9C%8C.csv",
+    "label": "三重県の企業",
+    "count": 100,
+    "total": 56810,
+    "group": "prefecture",
+    "key": "三重県"
+  },
+  {
+    "file": "pref-%E4%BA%AC%E9%83%BD%E5%BA%9C.csv",
+    "label": "京都府の企業",
+    "count": 100,
+    "total": 115148,
+    "group": "prefecture",
+    "key": "京都府"
+  },
+  {
+    "file": "pref-%E4%BD%90%E8%B3%80%E7%9C%8C.csv",
+    "label": "佐賀県の企業",
+    "count": 100,
+    "total": 25128,
+    "group": "prefecture",
+    "key": "佐賀県"
+  },
+  {
+    "file": "pref-%E5%85%B5%E5%BA%AB%E7%9C%8C.csv",
+    "label": "兵庫県の企業",
+    "count": 100,
+    "total": 202838,
+    "group": "prefecture",
+    "key": "兵庫県"
+  },
+  {
+    "file": "pref-%E5%8C%97%E6%B5%B7%E9%81%93.csv",
+    "label": "北海道の企業",
+    "count": 100,
+    "total": 233326,
+    "group": "prefecture",
+    "key": "北海道"
+  },
+  {
+    "file": "pref-%E5%8D%83%E8%91%89%E7%9C%8C.csv",
+    "label": "千葉県の企業",
+    "count": 100,
+    "total": 235208,
+    "group": "prefecture",
+    "key": "千葉県"
+  },
+  {
+    "file": "pref-%E5%92%8C%E6%AD%8C%E5%B1%B1%E7%9C%8C.csv",
+    "label": "和歌山県の企業",
+    "count": 100,
+    "total": 31492,
+    "group": "prefecture",
+    "key": "和歌山県"
+  },
+  {
+    "file": "pref-%E5%9F%BC%E7%8E%89%E7%9C%8C.csv",
+    "label": "埼玉県の企業",
+    "count": 100,
+    "total": 267768,
+    "group": "prefecture",
+    "key": "埼玉県"
+  },
+  {
+    "file": "pref-%E5%A4%A7%E5%88%86%E7%9C%8C.csv",
+    "label": "大分県の企業",
+    "count": 100,
+    "total": 48218,
+    "group": "prefecture",
+    "key": "大分県"
+  },
+  {
+    "file": "pref-%E5%A4%A7%E9%98%AA%E5%BA%9C.csv",
+    "label": "大阪府の企業",
+    "count": 100,
+    "total": 479713,
+    "group": "prefecture",
+    "key": "大阪府"
+  },
+  {
+    "file": "pref-%E5%A5%88%E8%89%AF%E7%9C%8C.csv",
+    "label": "奈良県の企業",
+    "count": 100,
+    "total": 41426,
+    "group": "prefecture",
+    "key": "奈良県"
+  },
+  {
+    "file": "pref-%E5%AE%AE%E5%9F%8E%E7%9C%8C.csv",
+    "label": "宮城県の企業",
+    "count": 100,
+    "total": 82783,
+    "group": "prefecture",
+    "key": "宮城県"
+  },
+  {
+    "file": "pref-%E5%AE%AE%E5%B4%8E%E7%9C%8C.csv",
+    "label": "宮崎県の企業",
+    "count": 100,
+    "total": 39452,
+    "group": "prefecture",
+    "key": "宮崎県"
+  },
+  {
+    "file": "pref-%E5%AF%8C%E5%B1%B1%E7%9C%8C.csv",
+    "label": "富山県の企業",
+    "count": 100,
+    "total": 36834,
+    "group": "prefecture",
+    "key": "富山県"
+  },
+  {
+    "file": "pref-%E5%B1%B1%E5%8F%A3%E7%9C%8C.csv",
+    "label": "山口県の企業",
+    "count": 100,
+    "total": 43034,
+    "group": "prefecture",
+    "key": "山口県"
+  },
+  {
+    "file": "pref-%E5%B1%B1%E5%BD%A2%E7%9C%8C.csv",
+    "label": "山形県の企業",
+    "count": 100,
+    "total": 34086,
+    "group": "prefecture",
+    "key": "山形県"
+  },
+  {
+    "file": "pref-%E5%B1%B1%E6%A2%A8%E7%9C%8C.csv",
+    "label": "山梨県の企業",
+    "count": 100,
+    "total": 35775,
+    "group": "prefecture",
+    "key": "山梨県"
+  },
+  {
+    "file": "pref-%E5%B2%90%E9%98%9C%E7%9C%8C.csv",
+    "label": "岐阜県の企業",
+    "count": 100,
+    "total": 74367,
+    "group": "prefecture",
+    "key": "岐阜県"
+  },
+  {
+    "file": "pref-%E5%B2%A1%E5%B1%B1%E7%9C%8C.csv",
+    "label": "岡山県の企業",
+    "count": 100,
+    "total": 74531,
+    "group": "prefecture",
+    "key": "岡山県"
+  },
+  {
+    "file": "pref-%E5%B2%A9%E6%89%8B%E7%9C%8C.csv",
+    "label": "岩手県の企業",
+    "count": 100,
+    "total": 34314,
+    "group": "prefecture",
+    "key": "岩手県"
+  },
+  {
+    "file": "pref-%E5%B3%B6%E6%A0%B9%E7%9C%8C.csv",
+    "label": "島根県の企業",
+    "count": 100,
+    "total": 23065,
+    "group": "prefecture",
+    "key": "島根県"
+  },
+  {
+    "file": "pref-%E5%BA%83%E5%B3%B6%E7%9C%8C.csv",
+    "label": "広島県の企業",
+    "count": 100,
+    "total": 112491,
+    "group": "prefecture",
+    "key": "広島県"
+  },
+  {
+    "file": "pref-%E5%BE%B3%E5%B3%B6%E7%9C%8C.csv",
+    "label": "徳島県の企業",
+    "count": 100,
+    "total": 31148,
+    "group": "prefecture",
+    "key": "徳島県"
+  },
+  {
+    "file": "pref-%E6%84%9B%E5%AA%9B%E7%9C%8C.csv",
+    "label": "愛媛県の企業",
+    "count": 100,
+    "total": 53034,
+    "group": "prefecture",
+    "key": "愛媛県"
+  },
+  {
+    "file": "pref-%E6%84%9B%E7%9F%A5%E7%9C%8C.csv",
+    "label": "愛知県の企業",
+    "count": 100,
+    "total": 284978,
+    "group": "prefecture",
+    "key": "愛知県"
+  },
+  {
+    "file": "pref-%E6%96%B0%E6%BD%9F%E7%9C%8C.csv",
+    "label": "新潟県の企業",
+    "count": 100,
+    "total": 76464,
+    "group": "prefecture",
+    "key": "新潟県"
+  },
+  {
+    "file": "pref-%E6%9D%B1%E4%BA%AC%E9%83%BD.csv",
+    "label": "東京都の企業",
+    "count": 100,
+    "total": 1342956,
+    "group": "prefecture",
+    "key": "東京都"
+  },
+  {
+    "file": "pref-%E6%A0%83%E6%9C%A8%E7%9C%8C.csv",
+    "label": "栃木県の企業",
+    "count": 100,
+    "total": 76177,
+    "group": "prefecture",
+    "key": "栃木県"
+  },
+  {
+    "file": "pref-%E6%B2%96%E7%B8%84%E7%9C%8C.csv",
+    "label": "沖縄県の企業",
+    "count": 100,
+    "total": 64791,
+    "group": "prefecture",
+    "key": "沖縄県"
+  },
+  {
+    "file": "pref-%E6%BB%8B%E8%B3%80%E7%9C%8C.csv",
+    "label": "滋賀県の企業",
+    "count": 100,
+    "total": 43983,
+    "group": "prefecture",
+    "key": "滋賀県"
+  },
+  {
+    "file": "pref-%E7%86%8A%E6%9C%AC%E7%9C%8C.csv",
+    "label": "熊本県の企業",
+    "count": 100,
+    "total": 71679,
+    "group": "prefecture",
+    "key": "熊本県"
+  },
+  {
+    "file": "pref-%E7%9F%B3%E5%B7%9D%E7%9C%8C.csv",
+    "label": "石川県の企業",
+    "count": 100,
+    "total": 44493,
+    "group": "prefecture",
+    "key": "石川県"
+  },
+  {
+    "file": "pref-%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C.csv",
+    "label": "神奈川県の企業",
+    "count": 100,
+    "total": 373988,
+    "group": "prefecture",
+    "key": "神奈川県"
+  },
+  {
+    "file": "pref-%E7%A6%8F%E4%BA%95%E7%9C%8C.csv",
+    "label": "福井県の企業",
+    "count": 100,
+    "total": 31343,
+    "group": "prefecture",
+    "key": "福井県"
+  },
+  {
+    "file": "pref-%E7%A6%8F%E5%B2%A1%E7%9C%8C.csv",
+    "label": "福岡県の企業",
+    "count": 100,
+    "total": 216796,
+    "group": "prefecture",
+    "key": "福岡県"
+  },
+  {
+    "file": "pref-%E7%A6%8F%E5%B3%B6%E7%9C%8C.csv",
+    "label": "福島県の企業",
+    "count": 100,
+    "total": 72918,
+    "group": "prefecture",
+    "key": "福島県"
+  },
+  {
+    "file": "pref-%E7%A7%8B%E7%94%B0%E7%9C%8C.csv",
+    "label": "秋田県の企業",
+    "count": 100,
+    "total": 30827,
+    "group": "prefecture",
+    "key": "秋田県"
+  },
+  {
+    "file": "pref-%E7%BE%A4%E9%A6%AC%E7%9C%8C.csv",
+    "label": "群馬県の企業",
+    "count": 100,
+    "total": 77676,
+    "group": "prefecture",
+    "key": "群馬県"
+  },
+  {
+    "file": "pref-%E8%8C%A8%E5%9F%8E%E7%9C%8C.csv",
+    "label": "茨城県の企業",
+    "count": 100,
+    "total": 97099,
+    "group": "prefecture",
+    "key": "茨城県"
+  },
+  {
+    "file": "pref-%E9%95%B7%E5%B4%8E%E7%9C%8C.csv",
+    "label": "長崎県の企業",
+    "count": 100,
+    "total": 42464,
+    "group": "prefecture",
+    "key": "長崎県"
+  },
+  {
+    "file": "pref-%E9%95%B7%E9%87%8E%E7%9C%8C.csv",
+    "label": "長野県の企業",
+    "count": 100,
+    "total": 81300,
+    "group": "prefecture",
+    "key": "長野県"
+  },
+  {
+    "file": "pref-%E9%9D%92%E6%A3%AE%E7%9C%8C.csv",
+    "label": "青森県の企業",
+    "count": 100,
+    "total": 38475,
+    "group": "prefecture",
+    "key": "青森県"
+  },
+  {
+    "file": "pref-%E9%9D%99%E5%B2%A1%E7%9C%8C.csv",
+    "label": "静岡県の企業",
+    "count": 100,
+    "total": 128722,
+    "group": "prefecture",
+    "key": "静岡県"
+  },
+  {
+    "file": "pref-%E9%A6%99%E5%B7%9D%E7%9C%8C.csv",
+    "label": "香川県の企業",
+    "count": 100,
+    "total": 40123,
+    "group": "prefecture",
+    "key": "香川県"
+  },
+  {
+    "file": "pref-%E9%AB%98%E7%9F%A5%E7%9C%8C.csv",
+    "label": "高知県の企業",
+    "count": 100,
+    "total": 26141,
+    "group": "prefecture",
+    "key": "高知県"
+  },
+  {
+    "file": "pref-%E9%B3%A5%E5%8F%96%E7%9C%8C.csv",
+    "label": "鳥取県の企業",
+    "count": 100,
+    "total": 20158,
+    "group": "prefecture",
+    "key": "鳥取県"
+  },
+  {
+    "file": "pref-%E9%B9%BF%E5%85%90%E5%B3%B6%E7%9C%8C.csv",
+    "label": "鹿児島県の企業",
+    "count": 100,
+    "total": 59459,
+    "group": "prefecture",
+    "key": "鹿児島県"
+  },
+  {
+    "file": "industry-agriculture.csv",
+    "label": "農林水産の企業",
+    "count": 100,
+    "total": 48531,
+    "group": "industry",
+    "key": "agriculture"
+  },
+  {
+    "file": "industry-construction.csv",
+    "label": "建設・工事の企業",
+    "count": 100,
+    "total": 372895,
+    "group": "industry",
+    "key": "construction"
+  },
+  {
+    "file": "industry-consulting.csv",
+    "label": "コンサル・士業の企業",
+    "count": 100,
+    "total": 51769,
+    "group": "industry",
+    "key": "consulting"
+  },
+  {
+    "file": "industry-finance.csv",
+    "label": "金融・保険の企業",
+    "count": 100,
+    "total": 27430,
+    "group": "industry",
+    "key": "finance"
+  },
+  {
+    "file": "industry-food.csv",
+    "label": "飲食・食品の企業",
+    "count": 100,
+    "total": 12124,
+    "group": "industry",
+    "key": "food"
+  },
+  {
+    "file": "industry-it.csv",
+    "label": "情報通信・ITの企業",
+    "count": 100,
+    "total": 121004,
+    "group": "industry",
+    "key": "it"
+  },
+  {
+    "file": "industry-logistics.csv",
+    "label": "運輸・物流の企業",
+    "count": 100,
+    "total": 55992,
+    "group": "industry",
+    "key": "logistics"
+  },
+  {
+    "file": "industry-manufacturing.csv",
+    "label": "製造の企業",
+    "count": 100,
+    "total": 72583,
+    "group": "industry",
+    "key": "manufacturing"
+  },
+  {
+    "file": "industry-medical.csv",
+    "label": "医療・福祉の企業",
+    "count": 100,
+    "total": 130494,
+    "group": "industry",
+    "key": "medical"
+  },
+  {
+    "file": "industry-other.csv",
+    "label": "その他の企業",
+    "count": 100,
+    "total": 4424923,
+    "group": "industry",
+    "key": "other"
+  },
+  {
+    "file": "industry-realestate.csv",
+    "label": "不動産の企業",
+    "count": 100,
+    "total": 101574,
+    "group": "industry",
+    "key": "realestate"
+  },
+  {
+    "file": "industry-retail.csv",
+    "label": "小売・卸売の企業",
+    "count": 100,
+    "total": 213726,
+    "group": "industry",
+    "key": "retail"
+  },
+  {
+    "file": "industry-service.csv",
+    "label": "サービスの企業",
+    "count": 100,
+    "total": 131477,
+    "group": "industry",
+    "key": "service"
+  },
+  {
+    "file": "tag-restaurant.csv",
+    "label": "飲食店（運営）の企業",
+    "count": 100,
+    "total": 10447,
+    "group": "tag",
+    "key": "restaurant"
+  },
+  {
+    "file": "tag-food-maker.csv",
+    "label": "食品製造・加工の企業",
+    "count": 100,
+    "total": 22218,
+    "group": "tag",
+    "key": "food-maker"
+  },
+  {
+    "file": "tag-beauty.csv",
+    "label": "美容・サロンの企業",
+    "count": 100,
+    "total": 31677,
+    "group": "tag",
+    "key": "beauty"
+  },
+  {
+    "file": "tag-clinic.csv",
+    "label": "医療・クリニックの企業",
+    "count": 100,
+    "total": 76681,
+    "group": "tag",
+    "key": "clinic"
+  },
+  {
+    "file": "tag-pharmacy.csv",
+    "label": "薬局・ドラッグの企業",
+    "count": 100,
+    "total": 12237,
+    "group": "tag",
+    "key": "pharmacy"
+  },
+  {
+    "file": "tag-care.csv",
+    "label": "介護・福祉の企業",
+    "count": 100,
+    "total": 101103,
+    "group": "tag",
+    "key": "care"
+  },
+  {
+    "file": "tag-retail.csv",
+    "label": "小売・店舗の企業",
+    "count": 100,
+    "total": 84721,
+    "group": "tag",
+    "key": "retail"
+  },
+  {
+    "file": "tag-ec.csv",
+    "label": "EC・通販事業者の企業",
+    "count": 100,
+    "total": 270,
+    "group": "tag",
+    "key": "ec"
+  },
+  {
+    "file": "tag-realestate.csv",
+    "label": "不動産・賃貸の企業",
+    "count": 100,
+    "total": 131095,
+    "group": "tag",
+    "key": "realestate"
+  },
+  {
+    "file": "tag-construction.csv",
+    "label": "建設・工事の企業",
+    "count": 100,
+    "total": 221010,
+    "group": "tag",
+    "key": "construction"
+  },
+  {
+    "file": "tag-manufacturing.csv",
+    "label": "製造・工場の企業",
+    "count": 100,
+    "total": 81770,
+    "group": "tag",
+    "key": "manufacturing"
+  },
+  {
+    "file": "tag-logistics.csv",
+    "label": "運送・物流の企業",
+    "count": 100,
+    "total": 61450,
+    "group": "tag",
+    "key": "logistics"
+  },
+  {
+    "file": "tag-it.csv",
+    "label": "IT・ソフトウェアの企業",
+    "count": 100,
+    "total": 96196,
+    "group": "tag",
+    "key": "it"
+  },
+  {
+    "file": "tag-education.csv",
+    "label": "教育・スクールの企業",
+    "count": 100,
+    "total": 13987,
+    "group": "tag",
+    "key": "education"
+  },
+  {
+    "file": "tag-hotel.csv",
+    "label": "宿泊・ホテルの企業",
+    "count": 100,
+    "total": 10270,
+    "group": "tag",
+    "key": "hotel"
+  },
+  {
+    "file": "tag-fitness.csv",
+    "label": "フィットネス・ジムの企業",
+    "count": 100,
+    "total": 2796,
+    "group": "tag",
+    "key": "fitness"
+  },
+  {
+    "file": "tag-agriculture.csv",
+    "label": "農林水産の企業",
+    "count": 100,
+    "total": 52305,
+    "group": "tag",
+    "key": "agriculture"
+  },
+  {
+    "file": "tag-hr.csv",
+    "label": "人材・派遣の企業",
+    "count": 100,
+    "total": 10205,
+    "group": "tag",
+    "key": "hr"
+  },
+  {
+    "file": "tag-pro-services.csv",
+    "label": "士業・専門サービスの企業",
+    "count": 100,
+    "total": 62007,
+    "group": "tag",
+    "key": "pro-services"
+  },
+  {
+    "file": "tag-auto.csv",
+    "label": "自動車・整備の企業",
+    "count": 100,
+    "total": 54334,
+    "group": "tag",
+    "key": "auto"
+  },
+  {
+    "file": "tag-wholesale.csv",
+    "label": "卸売・商社の企業",
+    "count": 100,
+    "total": 173769,
+    "group": "tag",
+    "key": "wholesale"
+  },
+  {
+    "file": "tag-advertising.csv",
+    "label": "広告・制作の企業",
+    "count": 100,
+    "total": 99885,
+    "group": "tag",
+    "key": "advertising"
+  }
+]
